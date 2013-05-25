@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.5.25)  25 MAY 2013 20:11
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.5.25)  25 MAY 2013 20:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1004,6 +1004,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 150--152
  []
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 152.
+<img/logo2.pdf, id=4, 1336.19196pt x 709.852pt>
+File: img/logo2.pdf Graphic file (type pdf)
+ <use img/logo2.pdf>
+Package pdftex.def Info: img/logo2.pdf used on input line 152.
+(pdftex.def)             Requested size: 285.95041pt x 151.91116pt.
+ [1
 
-!pdfTeX error: pdflatex (file ./img/logo1.pdf): xpdf: reading PDF image failed
- ==> Fatal error occurred, no output PDF file produced!
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/logo2.pdf>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 152.
+
+(./aushangWohnung.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 152.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 152.
+Package rerunfilecheck Info: File `aushangWohnung.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.28pt have occurred.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 152.
+ ) 
+Here is how much of TeX's memory you used:
+ 11483 strings out of 493488
+ 181385 string characters out of 3146892
+ 314356 words of memory out of 3000000
+ 14604 multiletter control sequences out of 15000+200000
+ 38020 words of font info for 40 fonts, out of 3000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 56i,14n,49p,286b,341s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf-dist/fonts/enc/dvips/libertine/lbtn_d6jdyt.enc}{/usr/share/
+texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/share/texmf-dist/fon
+ts/enc/dvips/libertine/lbtn_76gpa5.enc}{/usr/share/texmf-dist/fonts/enc/dvips/l
+ibertine/lbtn_25tcsq.enc}</usr/share/texmf-dist/fonts/type1/public/libertine/Li
+nBiolinumTB.pfb></usr/share/texmf-dist/fonts/type1/public/libertine/LinLibertin
+eMT.pfb></usr/share/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb><
+/usr/share/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb>
+Output written on aushangWohnung.pdf (1 page, 348781 bytes).
+PDF statistics:
+ 45 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
+ 4 named destinations out of 1000 (max. 500000)
+ 9222 words of extra memory for PDF output out of 10000 (max. 10000000)
+
